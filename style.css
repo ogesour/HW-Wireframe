@@ -29,7 +29,8 @@ section{
     float: left;
     margin-top: 20px;
     margin-bottom: 10px;
-    height: 280px;
+    /* height: 280px; */
+    height: 49%;
     margin-right: 10px;
     
 
@@ -52,7 +53,7 @@ footer{
 article{
     color: #ebebeb;
     background: #777;
-    /* width: 495px; */
+    width: 495px;
     margin-top: 40px;
     margin-left: 5px;
     margin-right: 5px;
@@ -69,7 +70,7 @@ article{
     margin-left: 15px;
     margin-right: 15px;
     position: absolute;
-    top: 77%;
+    top: 61%;
     width: 36%;
 
 
@@ -84,6 +85,6 @@ h1{
     height:50px;
     position: absolute;
     width: 36%;
-    top: 64%;
+    top: 50%;
     
 }
